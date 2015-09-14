@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="p1.css">
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<div class="container">
+
+	<div class="jumbotron">	
+	<img src="joy.jpg" alt="Joy Abia">
+	<div id="header">
+	<h1> Joy Okon Abia </h1>
+	<h2> Dynamic WebApps Portfolio </h2>
+	</div><!--close header-->
+	
+
+	</div><!--close jumbotron-->
+
+	<h2> Project 2</h2>
+	
+	<h2> Project 3 </h2>
+	<h2> Project 4</h2>
+
+	<h2> About Me</h2>
+	<p> I have 10+ years experience working in information technology roles. The bulk of my experience has been in server operating system and recently in application delivery. Due to my experience deploying applications, I developed a curiosity for appplication and software development.
+	</p> 
+	<p>I am also taking the course on cloud computing E-90 as I have read about rapid application deployment using the cloud and development stacks</p>
+	<p>  I plan on applying to the Graduate Information Technology program and this course fulfils the 3 course requirement. </p>
+	<p></p>
+	<h2> Why I am taking this course</h2>
+	<p>I took introduction to web development CSCI E-12 in the spring semester and I enjoyed it so much. Since this course
+	is a progression from E-12 I decided to take it. I want to learn all about the application development workflow and server end programming</p> 
+
+	<h2> What Platform Do You Use</h2>
+	<p> I am workin on a PC platform</p>
+
+</div><!-- close the container div -->
+</body>
+</html>
