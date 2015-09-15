@@ -16,7 +16,7 @@ browser's address bar or next to the site name in a bookmark list. I generate th
 http://www.favicon-generator.org/
 
 ##Outside code
-Frontend Framework: I used bootstrap (getboostrap.com) to provide a responsive design for 
+Frontend Framework: I used bootstrap (http://www.getboostrap.com) to provide a responsive design for 
 this webpage.
 Favicon generator: http://www.favicon-generator.org/
 
