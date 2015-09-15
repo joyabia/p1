@@ -1,8 +1,38 @@
+.container{
+	background-color: #A5ACAF;
+}
+
 img {
     float: right;
-    margin: 0 0 0px 0px;
+    border-radius: 30%;
+    vertical-align: center;
 }
 
 #header{
 	clear:left;
 }
+
+a:link    {color:#002244; background-color:transparent; text-decoration:none}
+a:visited {color:#2FA239; background-color:transparent; text-decoration:none}
+a:hover   {color:aliceblue; background-color:transparent; text-decoration:underline}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+
+#jumbotron_id{
+	background-color: #002244;
+	color: #69BE28;
+	
+}
+
+.row{
+	padding-left: 30px;
+}
+.row> h2{
+ color:#002244;
+}
+
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+
