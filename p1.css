@@ -44,3 +44,8 @@ dd{
 	margin-bottom: 20px;
 	color:#002244;
 }
+
+#project_section{
+	border-bottom: 3px solid #002244 ;
+	margin: 0 10px 0px 10px;
+}
