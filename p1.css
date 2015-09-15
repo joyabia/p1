@@ -35,4 +35,12 @@ a:active  {color:yellow; background-color:transparent; text-decoration:underline
 	padding-right: 0px;
 }
 
+dt{
+font-size: 20px;
+color:#002244;
+}
 
+dd{
+	margin-bottom: 20px;
+	color:#002244;
+}
