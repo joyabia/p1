@@ -25,6 +25,7 @@ a:active  {color:yellow; background-color:transparent; text-decoration:underline
 
 .row{
 	padding-left: 30px;
+	padding-right: 30px;
 }
 .row> h2{
  color:#002244;
