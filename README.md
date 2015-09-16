@@ -21,6 +21,6 @@ this webpage.
 Favicon generator: http://www.favicon-generator.org/
 
 ###Compatibility with IE
-Tested on Internet explorer 11, bootstrap works well and page renders correctly. On IE8 bootstrap 
+Tested on IE11, bootstrap works well and page renders correctly. On IE9 and older bootstrap 
 doesnt load properly.
 
